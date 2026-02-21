@@ -3887,3 +3887,6 @@ img {
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+.program-card:nth-child(1) { background: #fae6db; }  /* Arts - soft peach */
+.program-card:nth-child(2) { background: #e2f0f9; }  /* Science - soft blue */
+.program-card:nth-child(3) { background: #e2f0e8; }  /* Commerce - soft green */
