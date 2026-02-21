@@ -3903,7 +3903,7 @@ img {
     color: #374151;  /* dark body text */
 }
 /* Arts Stream */
-.program-card:nth-child(1) h3 { color: #7b3f00; }   /* warm brown */
+.program-card:nth-child(1) h3 { color: #6c3391; }   /* warm brown */
 
 /* Science Stream */
 .program-card:nth-child(2) h3 { color: #1e4a6b; }   /* deep blue */
