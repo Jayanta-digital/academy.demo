@@ -3887,9 +3887,12 @@ img {
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+
+/*
 .program-card:nth-child(1) { background: #fae6db; }  /* Arts - soft peach */
-.program-card:nth-child(2) { background: #e2f0f9; }  /* Science - soft blue */
-.program-card:nth-child(3) { background: #e2f0e8; }  /* Commerce - soft green */
+/*.program-card:nth-child(2) { background: #e2f0f9; }  /* Science - soft blue */
+/*.program-card:nth-child(3) { background: #e2f0e8; }  /* Commerce - soft green */
+
 
 .comparison-card h3 {
     color: #1e293b;  /* dark, readable heading */
@@ -3899,3 +3902,11 @@ img {
 .comparison-card li {
     color: #374151;  /* dark body text */
 }
+/* Arts Stream */
+.program-card:nth-child(1) h3 { color: #7b3f00; }   /* warm brown */
+
+/* Science Stream */
+.program-card:nth-child(2) h3 { color: #1e4a6b; }   /* deep blue */
+
+/* Commerce Stream */
+.program-card:nth-child(3) h3 { color: #2c7a4d; }   /* muted green */
