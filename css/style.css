@@ -3881,3 +3881,9 @@ img {
     .leadership-grid { grid-template-columns: 1fr; }
 }
 
+.principal-desk .section-title h2 {
+    background: linear-gradient(135deg, #1e4a6b, #c25e2e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
