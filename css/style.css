@@ -3906,7 +3906,7 @@ img {
 .program-card:nth-child(1) h3 { color: #6c3391; }   /* warm brown */
 
 /* Science Stream */
-.program-card:nth-child(2) h3 { color: #1e4a6b; }   /* deep blue */
+.program-card:nth-child(2) h3 { color: #d9531a; }   /* deep blue */
 
 /* Commerce Stream */
 .program-card:nth-child(3) h3 { color: #2c7a4d; }   /* muted green */
